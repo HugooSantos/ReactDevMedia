@@ -1,0 +1,13 @@
+.container{
+  text-align: center;
+  width: 100vw;
+  background-color: #4d538c;;
+  box-sizing: border-box;
+  margin-top: 10vh;
+  height: 10vh;
+}
+.title{
+  font-size: 30px;
+  color: white;
+  font-weight: 600;
+}
